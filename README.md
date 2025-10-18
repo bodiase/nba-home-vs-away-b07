@@ -4,6 +4,9 @@
 This project explores whether NBA teams perform differently at home versus away.  
 Using 2024 play-by-play and matchup data, we analyzed field-goal efficiency, shot-type mix, substitutions, free-throw accuracy, scoring runs, win rate, and turnovers.
 
+### Contributors
+Kang Ni, Stephanie Chen, Marcus Shi, Bill Odiase, Steven Marathias, Keane Albright (Project Manager)
+
 ### Project Structure (Inside the Notebook)
 - Executive Summary - Final: High-level findings and implications.
 - Project Motivation & Data Overview: Problem framing, data sources, and context.
@@ -71,9 +74,6 @@ scikit-learn
 
 ### Limitations Results Summary
 Home-court advantage exists but is modest: efficiency improves slightly, yet team style and momentum remain stable. The advantage is more psychological than structural.
-
-### Contributors
-Kang Ni, Stephanie Chen, Marcus Shi, Bill Odiase, Steven Marathias, Keane Albright
 
 ### Acknowledgments
 Boston University MSBA BA780 - Intro to Data Analytics.  
