@@ -1,4 +1,4 @@
-# B07 - Team Effectiveness: Home vs Away (NBA 2024)
+B07 - Team Effectiveness: Home vs Away (NBA 2024)
 
 ### Overview
 This project explores whether NBA teams perform differently at home versus away.  
